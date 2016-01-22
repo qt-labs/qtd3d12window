@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>shader_offscreen.vert</file>
+    <file>shader_offscreen.frag</file>
+    <file>shader_onscreen.vert</file>
+    <file>shader_onscreen.frag</file>
+</qresource>
+</RCC>
