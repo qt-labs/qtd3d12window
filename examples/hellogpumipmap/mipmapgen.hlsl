@@ -1,3 +1,6 @@
+// This is basically a simplified (power-of-two only), deoptimized and thus more readable version of
+// https://github.com/Microsoft/DirectX-Graphics-Samples/blob/master/MiniEngine/Core/Shaders/GenerateMipsCS.hlsli
+
 static const uint GROUP_DIM = 8; // 2 ^ (out_mip_count - 1)
 
 Texture2D tex : register(t0);
